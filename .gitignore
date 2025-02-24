@@ -6,3 +6,9 @@
 
 # Игнорировать файл .DS_Store
 .DS_Store
+
+# Игнорировать файлы базы данных SQLite
+*.sqlite
+*.sqlite3
+*.db
+*.db3
